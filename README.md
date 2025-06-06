@@ -1,3 +1,4 @@
 # SAHIL-GOYAL-demo
-this is my first Git repository.
-Author-Sahil Goyal
+This is my first Git repository.
+<br>
+Author-Sahil Goyal.
